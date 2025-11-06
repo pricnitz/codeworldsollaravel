@@ -1,0 +1,521 @@
+    {{-- <div class="preloader">
+        <div class="loader-content">
+            <div class="logo">
+                <img src="images/logo.png" alt="Code World Solutions Logo">
+            </div>
+            <h2>Code World Solutions is loading...</h2>
+            <img src="images/loader.gif" alt="">
+        </div>
+    </div> --}}
+    <div class="left-sidebar">
+        <a href="#" title="" class="menu-btn">
+            <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path
+                    d="M0.711397 17.6361C-0.0696518 18.4171 -0.0696518 19.6834 0.711397 20.4645C1.49245 21.2455 2.75878 21.2455 3.53982 20.4645L20.5104 3.49393C21.2914 2.71288 21.2914 1.44655 20.5104 0.665498C19.7293 -0.115551 18.463 -0.11555 17.682 0.665498L0.711397 17.6361Z"
+                    fill="white" />
+                <path
+                    d="M2.12558 31.7782C1.34453 30.9971 1.34453 29.7308 2.12558 28.9498L19.0961 11.9792C19.8772 11.1981 21.1435 11.1981 21.9246 11.9792C22.7056 12.7602 22.7056 14.0266 21.9246 14.8076L4.95401 31.7782C4.17296 32.5592 2.90663 32.5592 2.12558 31.7782Z"
+                    fill="white" />
+                <path
+                    d="M13.4393 33.1924C12.6583 32.4113 12.6583 31.145 13.4393 30.364L30.4099 13.3934C31.1909 12.6124 32.4572 12.6124 33.2383 13.3934C34.0193 14.1745 34.0193 15.4408 33.2383 16.2218L16.2677 33.1924C15.4867 33.9734 14.2204 33.9734 13.4393 33.1924Z"
+                    fill="white" />
+            </svg>
+        </a>
+        <ul class="mbl-menu">
+            <li><a href="#" title="">Linkedin</a></li>
+            <li><a href="#" title="">Behance</a></li>
+        </ul>
+    </div>
+    <div class="wrapper">
+
+        <header class="pb">
+            <div class="container">
+                <div class="header-content">
+                    <div class="logo">
+                        <a href="index.html" title="">
+                            <img src="" alt="Code World Solutions Logo"> </a>
+                    </div>
+                    <nav>
+                        <ul>
+                            <li><a href="/service.html" title="">Services</a></li>
+                            <li><a href="cases.html" title="">Cases</a></li>
+                            <li><a href="contact.html" title="">Contact us</a></li>
+                        </ul>
+                    </nav>
+                    <div class="right-side-hd">
+                        <span>8109653732</span> <a href="contact.html" title="" class="btn-default">Get a quote</a>
+                    </div>
+                    <a href="#" title="" class="menu-btn">
+                        <svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M0.711397 17.6361C-0.0696518 18.4171 -0.0696518 19.6834 0.711397 20.4645C1.49245 21.2455 2.75878 21.2455 3.53982 20.4645L20.5104 3.49393C21.2914 2.71288 21.2914 1.44655 20.5104 0.665498C19.7293 -0.115551 18.463 -0.11555 17.682 0.665498L0.711397 17.6361Z"
+                                fill="white" />
+                            <path
+                                d="M2.12558 31.7782C1.34453 30.9971 1.34453 29.7308 2.12558 28.9498L19.0961 11.9792C19.8772 11.1981 21.1435 11.1981 21.9246 11.9792C22.7056 12.7602 22.7056 14.0266 21.9246 14.8076L4.95401 31.7782C4.17296 32.5592 2.90663 32.5592 2.12558 31.7782Z"
+                                fill="white" />
+                            <path
+                                d="M13.4393 33.1924C12.6583 32.4113 12.6583 31.145 13.4393 30.364L30.4099 13.3934C31.1909 12.6124 32.4572 12.6124 33.2383 13.3934C34.0193 14.1745 34.0193 15.4408 33.2383 16.2218L16.2677 33.1924C15.4867 33.9734 14.2204 33.9734 13.4393 33.1924Z"
+                                fill="white" />
+                        </svg>
+                    </a>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </header>
+        <div class="responsive-mobile-menu">
+            <div class="responsive-logo">
+                <img src="images/logo.png" alt="Code World Solutions Logo">
+            </div>
+            <ul>
+                <li><a href="services.html" title="">Services</a>
+                    <ul>
+                        <li><a href="service-details.html" title="">Service Details</a></li>
+                    </ul>
+                </li>
+                <li><a href="cases.html" title="">Cases</a>
+                    <ul>
+                        <li><a href="case-work.html" title="">Cases Work</a></li>
+                    </ul>
+                </li>
+                <li><a href="contact.html" title="">Contact us</a></li>
+            </ul>
+        </div>
+        <section class="main-banner">
+            <div class="banner-slider">
+                <div class="banner-slide">
+                    <div class="container">
+                        <div class="main-banner-text">
+                            <span class="wow fadeInUp" data-wow-delay="300ms">Your Full-Service Digital Partner</span>
+                            <h1 class="wow fadeInUp" data-wow-delay="450ms">Code World Solutions <span></span></h1>
+                            <p class="wow fadeInUp" data-wow-delay="600ms">We build powerful websites, custom software,
+                                and mobile apps that drive growth. From SEO and marketing to payment integration, we
+                                bring your digital vision to life.</p>
+                            <div class="play-video-div wow fadeInUp" data-wow-delay="800ms">
+                                <div class="poly1">
+                                    <div class="poly2">
+                                        <a href="#" title="" class="play-video html5lightbox"> <img
+                                                src="images/icon1.svg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="pl-text">
+                                    <h3>About Us</h3>
+                                    <span>Promotion video</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="sec-block overlay">
+            <h2 class="page-number bottom">02.</h2>
+            <div class="bg-position left-position"></div>
+            <div class="container">
+                <div class="expt-text float-right">
+                    <div class="main-banner-text title-hd wow slideInRight" data-wow-delay="300ms">
+                        <span>about us</span>
+                        <h1>We are Experts in Our Field <span></span></h1>
+                        <p>Code World Solutions is a team of passionate developers, designers, and marketers dedicated
+                            to empowering businesses through technology.</p>
+                        <p class="bdy">We believe a great website or app is more than just code—it's your most powerful
+                            tool for growth. We handle everything from initial concept and branding to development,
+                            launch, and digital marketing, ensuring a seamless and successful project from start to
+                            finish.</p>
+                        <a href="about.html" title="" class="btn-default2">read more <img src="images/icon4.svg"
+                                alt=""></a>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </section>
+
+        <section class="sec-block">
+            <div class="fixed-bg bg3"></div>
+            <h2 class="page-number">03</h2>
+            <div class="container">
+                <div class="main-banner-text title-hd svs-header wow fadeInLeft" data-wow-delay="500ms">
+                    <span>our services</span>
+                    <h1>Our Expert Digital Services <span></span></h1>
+                    <p class="bdy">We provide a complete range of digital solutions to build your brand and grow your
+                        business. See what we can do for you.</p>
+                </div>
+            </div>
+            <div class="services-section">
+                <div class="container">
+                    <div class="row svs-carousel">
+
+                        <div class="col-lg-3">
+                            <div class="service-col wow fadeIn" data-wow-delay="300ms">
+                                <div class="svs-icon">
+                                    <img src="images/icon8.svg" alt="">
+                                </div>
+                                <h3>Web Development</h3>
+                                <a href="services.html" title="" class="btn-default2">read more</a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3">
+                            <div class="service-col wow fadeIn" data-wow-delay="600ms">
+                                <div class="svs-icon">
+                                    <img src="images/icon6.svg" alt="">
+                                </div>
+                                <h3>App Development</h3>
+                                <a href="services.html" title="" class="btn-default2">read more</a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3">
+                            <div class="service-col wow fadeIn" data-wow-delay="900ms">
+                                <div class="svs-icon">
+                                    <img src="images/icon5.svg" alt="">
+                                </div>
+                                <h3>UI/UX &amp; Branding</h3>
+                                <a href="services.html" title="" class="btn-default2">read more</a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3">
+                            <div class="service-col wow fadeIn" data-wow-delay="1200ms">
+                                <div class="svs-icon">
+                                    <img src="images/icon7.svg" alt="">
+                                </div>
+                                <h3>Digital Marketing</h3>
+                                <a href="services.html" title="" class="btn-default2">read more</a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3">
+                            <div class="service-col">
+                                <div class="svs-icon">
+                                    <img src="images/icon5.svg" alt="">
+                                </div>
+                                <h3>Custom Software</h3>
+                                <a href="services.html" title="" class="btn-default2">read more</a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3">
+                            <div class="service-col">
+                                <div class="svs-icon">
+                                    <img src="images/icon6.svg" alt="">
+                                </div>
+                                <h3>E-commerce Solutions</h3>
+                                <a href="services.html" title="" class="btn-default2">read more</a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3">
+                            <div class="service-col">
+                                <div class="svs-icon">
+                                    <img src="images/icon7.svg" alt="">
+                                </div>
+                                <h3>Promotional Videos</h3>
+                                <a href="services.html" title="" class="btn-default2">read more</a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3">
+                            <div class="service-col">
+                                <div class="svs-icon">
+                                    <img src="images/icon8.svg" alt="">
+                                </div>
+                                <h3>DigiLocker &amp; Payment Gateway</h3>
+                                <a href="services.html" title="" class="btn-default2">read more</a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="sec-block overlay">
+            <div class="bg-position right-position"></div>
+            <div class="container">
+                <div class="consulation-section">
+                    <div class="main-banner-text title-hd wow fadeInUp" data-wow-delay="300ms">
+                        <span>let’s get started</span>
+                        <h1>Get a Free Consultation <span></span></h1>
+                        <p class="bdy">We're excited to hear about your project. Tell us your idea, and we'll provide a
+                            free, no-obligation consultation and quote.</p>
+                    </div>
+                    <div class="contact-form wow fadeInUp" data-wow-delay="300ms">
+                        <form method="post" action="#" id="contact-form">
+                            <div class="response"></div>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="input-field">
+                                        <input type="text" name="name" class="name" placeholder="Name">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="input-field">
+                                        <input type="text" name="email" class="email" placeholder="Email">
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="input-field">
+                                        <textarea name="message" placeholder="Message"></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="input-field m-0">
+                                        <button type="button" class="btn-default" id="submit">Send message</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="sec-block why-choose-us">
+            <div class="fixed-bg bg6"></div>
+            <h2 class="page-number">05</h2>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="counter-section">
+                            <div class="row">
+                                <!-- <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="counter-div gradient-bg1 wow fadeInUp" data-wow-delay="300ms">
+                                        <h2>235 <sup>+</sup></h2>
+                                        <span>Satisfied Clients</span>
+                                    </div></div> -->
+                                <!-- <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="counter-div scnd-dv gradient-bg1 wow fadeInUp" data-wow-delay="600ms">
+                                        <h2>15 <sup>+</sup></h2>
+                                        <span>Awards Winning</span>
+                                    </div></div> -->
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="counter-div gradient-bg2 wow fadeInUp" data-wow-delay="900ms">
+                                        <h2>10 <sup>+</sup></h2>
+                                        <span>Team Members</span>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="counter-div frht gradient-bg2 wow fadeInUp" data-wow-delay="1200ms">
+                                        <h2>100 <sup>+</sup></h2>
+                                        <span>Successful Projects</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="why-we-sec">
+                            <div class="main-banner-text title-hd wow fadeInUp" data-wow-delay="300ms">
+                                <span>a few words</span>
+                                <h1>Why Choose Code World Solutions <span></span></h1>
+                                <p>We're more than just a vendor; we're your technology partner. We are committed to
+                                    delivering results and building long-term relationships.</p>
+                            </div>
+                            <ul class="our-features-list wow fadeInDown" data-wow-delay="600ms">
+                                <li>
+                                    <h3>Modern Technologies</h3>
+                                    <p>We use the latest and most robust technologies to ensure your project is fast,
+                                        secure, and scalable for the future.</p>
+                                </li>
+                                <li>
+                                    <h3>Huge Digital Experience</h3>
+                                    <p>With expertise across web, mobile, marketing, and custom software, our team has
+                                        the full-stack experience to handle your entire project in-house.</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="sec-block">
+            <div class="fixed-bg bg4"></div>
+            <h2 class="page-number">06.</h2>
+            <div class="container">
+                <div class="section-head">
+                    <div class="main-banner-text title-hd wow fadeInUp" data-wow-delay="300ms">
+                        <span>portfolio</span>
+                        <h1>Our latest cases <span></span></h1>
+                        <p class="bdy">We always try to implement our creative ideas at the highest level. You can see
+                            it by looking at our portfolio.</p>
+                    </div><a href="cases.html" title="" class="btn-default2">view all cases <img src="images/icon4.svg"
+                            alt=""></a>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="pft-items">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="pft-item wow fadeInUp" data-wow-delay="300ms">
+                                <img src="images/resources/pt1.jpg" alt="">
+                                <div class="figcaption">
+                                    <h2><a href="case-work.html" title="">[Your Project Title Here]</a></h2> <a
+                                        href="case-work.html" title=""><img src="images/icon9.svg" alt=""></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="pft-item wow fadeInUp" data-wow-delay="600ms">
+                                <img src="images/resources/pt2.jpg" alt="">
+                                <div class="figcaption">
+                                    <h2><a href="case-work.html" title="">[Your Project Title Here]</a></h2> <a
+                                        href="case-work.html" title=""><img src="images/icon9.svg" alt=""></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="pft-item wow fadeInUp" data-wow-delay="900ms">
+                                <img src="images/resources/pt3.jpg" alt="">
+                                <div class="figcaption">
+                                    <h2><a href="case-work.html" title="">[Your Project Title Here]</a></h2> <a
+                                        href="case-work.html" title=""><img src="images/icon9.svg" alt=""></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="sec-block">
+            <div class="fixed-bg bg5"></div>
+            <h2 class="page-number">07.</h2>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 wow slideInLeft" data-wow-delay="300ms">
+                        <div class="main-banner-text title-hd">
+                            <span>recent posts</span>
+                            <h1>Latest From Code World Solutions <span></span></h1>
+                            <p class="bdy">You may be interested in our technologies. We want to share more helpful
+                                infomation with you about our digital life and methods.</p>
+                        </div>
+                        <div class="blog-posts">
+                            <div class="blog_post">
+                                <div class="blog-thumbnail">
+                                    <img src="images/resources/blog1.jpg" alt="">
+                                </div>
+                                <div class="blog_info">
+                                    <ul class="meta">
+                                        <li>
+                                            <span class="category">Corporate</span>
+                                        </li>
+                                        <li>
+                                            <span>Oct 21, 2025</span>
+                                        </li>
+                                    </ul>
+                                    <h2 class="post-title"><a href="blog-single.html" title="">[Your Blog Post Title
+                                            Here]</a></h2>
+                                    <a href="blog-single.html" title="" class="btn-default2">read more</a>
+                                </div>
+                            </div>
+                            <div class="blog_post">
+                                <div class="blog-thumbnail">
+                                    <img src="images/resources/blog2.jpg" alt="">
+                                </div>
+                                <div class="blog_info">
+                                    <ul class="meta">
+                                        <li>
+                                            <span class="category">Web</span>
+                                        </li>
+                                        <li>
+                                            <span>Oct 21, 2025</span>
+                                        </li>
+                                    </ul>
+                                    <h2 class="post-title"><a href="blog-single.html" title="">[Your Blog Post Title
+                                            Here]</a></h2>
+                                    <a href="blog-single.html" title="" class="btn-default2">read more</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 wow slideInRight" data-wow-delay="300ms">
+                        <div class="blog_post main">
+                            <div class="blog-thumbnail">
+                                <img src="images/resources/blog3.jpg" alt="">
+                            </div>
+                            <div class="blog_info">
+                                <ul class="meta">
+                                    <li>
+                                        <span class="category">Portfolio</span>
+                                    </li>
+                                    <li>
+                                        <span>Oct 21, 2025</span>
+                                    </li>
+                                </ul>
+                                <h2 class="post-title"><a href="blog-single.html" title="">[Your Blog Post Title
+                                        Here]</a></h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <div class="container">
+                <div class="top-footer">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="tp-contact wow fadeInUp" data-wow-delay="300ms">
+                                <div class="main-banner-text title-hd">
+                                    <span>newsletter</span>
+                                    <h1>be always <br /> in touch <span></span></h1>
+                                    <p class="bdy">Subscribe to our newsletter to get the latest insights on technology,
+                                        marketing, and design from the Code World Solutions team.</p>
+                                </div>
+                                <form class="newsletter-form">
+                                    <input type="email" name="email" placeholder="Email">
+                                    <button type="submit"><img src="images/send.svg" alt=""></button>
+                                </form>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="testimonial-sec wow fadeInDown" data-wow-delay="300ms">
+                                <div class="testi-head">
+                                    <div class="testi-thumb">
+                                        <img src="images/resources/thumb1.png" alt="">
+                                    </div>
+                                    <div class="testi-info">
+                                        <h3>[Client Name]</h3>
+                                        <span>[Client's Position, Company]</span>
+                                    </div>
+                                </div>
+                                <p>"Code World Solutions transformed our online presence. Their team was professional,
+                                    on-time, and delivered a product that exceeded our expectations."</p>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bottom-footer">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="widget widget-about wow fadeInUp" data-wow-delay="300ms">
+                                <img src="images/logo.png" alt="Code World Solutions Logo">
+                                <p>Copyright © 2025 Code World Solutions.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="widget widget-para wow fadeInDown" data-wow-delay="600ms">
+                                <h3 class="widget-title">Working hours:</h3>
+                                <p>Mon - Fri: 9 am - 6 pm<br>Sat, Sun: Holiday</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="widget widget-para wow fadeInUp" data-wow-delay="900ms">
+                                <h3 class="widget-title">Address:</h3>
+                                <p>[Your Company Address Here]</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                            <div class="widget widget-para wow fadeInDown" data-wow-delay="1200ms">
+                                <h3 class="widget-title">Hit us up:</h3>
+                                <span>8109653732</span>
+                                <p>hello@codeworldsol.com</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
